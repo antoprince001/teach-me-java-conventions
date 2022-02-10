@@ -20,7 +20,7 @@ public class PowerFinderTest {
     }
 
     @Test
-    public void three_raised_to_three_is_nine() {
+    public void three_raised_to_two_is_nine() {
         assert PowerFinder.OF(3, 2) == 3*3;
     }
 }
