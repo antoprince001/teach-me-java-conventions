@@ -3,3 +3,9 @@
 - but he was also in a rush and didn't care about clean code or basic java conventions. Now he is not sure why Intellij (or gradle for that matter) won't run his test. Also his code looks ugly. Can you help him fix these problems. 
     - ![test not running](testsnotrunning.png)
 - ensure you fix the issue due to which tests are not running, secondly take care of basic java naming conventions, third look for anything inconsistent or typo and anything else you think can be improved.
+
+
+## Test Completion Report
+
+
+![image](https://user-images.githubusercontent.com/47826916/153360954-1d3dedf2-ec1e-455e-ad4d-9f87143166f4.png)
